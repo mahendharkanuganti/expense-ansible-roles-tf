@@ -1,0 +1,5 @@
+login_user: root
+login_host: db-prod.mahidevops.cloud
+login_password: ExpenseApp@1
+DB_HOST: db-prod.mahidevops.cloud
+BACKEND_API_URL: backend.app-prod.mahidevops.cloud
