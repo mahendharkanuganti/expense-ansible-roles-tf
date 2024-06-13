@@ -1,4 +1,3 @@
 
 #mysql_root_password: ExpenseApp@1
-mysql_root_password: ExpenseApp1
-login_host: db.daws78s.online
+login_host: db.mahidevops.cloud
