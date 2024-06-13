@@ -3,4 +3,4 @@ login_host: db-dev.mahidevops.cloud
 login_password: ExpenseApp1
 DB_HOST: db-dev.mahidevops.cloud
 BACKEND_API_URL: backend.app-dev.mahidevops.cloud
-nexus_url: nexus.mahidevops.cloud:8081
+# nexus_url: nexus.mahidevops.cloud:8081
